@@ -8,35 +8,35 @@
 ```
 
 2. Text :
-   ```
-   str
-   ```
+```
+  str
+```
 3. Boolean :
-   ```
-   bool
-   ```
+```
+  bool
+```
 4.sequence : 
 ```
-*list
-*tuple
-*range
+  list
+  tuple
+  range
 ```
 5. Set :
 ```
  set
 ```
 6. Mapping :
-  ```
-dict
- ```
+```
+  dict
+```
 7. Nonetype:
-   ```
-   None
-   ```
+```
+  None
+```
 8. Binary :
- ```
- bytes
- bytearray
+```
+  bytes
+  bytearray
 ```
 
 
